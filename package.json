@@ -1,0 +1,16 @@
+{
+  "name": "angularcourse",
+  "version": "1.0.0",
+  "description": "This is a Test Directory to learn node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Sajith Rumesh Perera",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
